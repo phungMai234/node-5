@@ -1,0 +1,24 @@
+{
+  "name": "node-stream-batch",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  },
+  "description": "## Yêu cầu",
+  "version": "1.0.0",
+  "main": "controllers/batch-server.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhhng/node-stream-batch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhhng/node-stream-batch/issues"
+  },
+  "homepage": "https://github.com/minhhng/node-stream-batch#readme"
+}
